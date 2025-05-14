@@ -1,0 +1,34 @@
+{
+    "collection_1": {
+        "pages": 21,
+        "name": "Colección 1",
+        "captions": {
+            "0": "¡La gran portada! Anunciando la épica 'Minecraft Colección 2024-2025'. ¡Prepárense para la aventura!",
+            "1": "Nuestro héroe, con su traje de rayo, contempla un extraño árbol rojo bajo el sol cúbico.",
+            "2": "Abasteciéndose de manzanas y zanahorias pixeladas, con imponentes montañas de piedra al fondo.",
+            "3": "¡En guardia! Nuestro héroe defiende el huerto de manzanos de un intruso. ¡La espada brilla!",
+            "4": "Picando en la mina... ¡Cuidado! Un zombie verdoso acecha cerca de un misterioso portal o fuente de agua.",
+            "5": "¡A talar madera! Con hacha en mano y un cofre listo para guardar los recursos.",
+            "6": "Un mapa estratégico... ¿o un inventario? Unos diamantes marcan el camino...",
+            "7": "Llegando a casa. Una robusta puerta de madera promete refugio y seguridad.",
+            "8": "Descansando en una cama pixelada, o quizás atrapado en una estructura misteriosa.",
+            "9": "Nuestro héroe frente a su base, ¡decorada con bloques de colores que forman una bandera!",
+            "10": "Dentro de casa: una cama para descansar, un cofre para tesoros y escaleras a nuevas aventuras.",
+            "11": "¡SSSSSS... BOOM! Un Creeper aparece, ¡y nuestros héroes gritan de terror! (AAAA!)",
+            "12": "Al borde del abismo, con un tesoro (¡o una trampa!) abajo. Un rostro de Creeper adorna la pared.",
+            "13": "¡Una reunión inesperada! Mobs y nuestro héroe... ¿Amigos o enemigos? ¡Alguien se ríe! (JAJAJA)",
+            "14": "Siguiendo el rastro de diamantes. ¿A dónde llevarán esta vez?",
+            "15": "Una imponente estructura dorada se alza en el horizonte. ¿Qué secretos guardará?",
+            "16": "A la izquierda, ¿un portal o una cama? A la derecha, ¡una torre amarilla atrae un rayo!",
+            "17": "¡Duelo al amanecer! Un esqueleto arquero se enfrenta a nuestro valiente héroe.",
+            "18": "¡Auch! Flechas certeras alcanzan a nuestro héroe. ¡Esto se pone difícil!",
+            "19": "¿Un rescate o un experimento? Nuestro héroe yace en una mesa, mientras otra figura opera una máquina.",
+            "20": "FIN DE ESTA HISTORIA... Nuestro héroe descansa, ¿o espera ser desenterrado para una nueva aventura?"
+        },
+        "music": "facility"
+    },
+    "collection_2": {
+        "pages": 0,
+        "music": "spooky"
+    }
+}
