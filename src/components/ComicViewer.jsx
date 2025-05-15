@@ -26,10 +26,12 @@ const ComicViewer = () => {
   };
 
   const playMusic = () => {
+    if (!musicRef.current) return;
     if (musicRef.current.isPlaying()) return;
     musicRef.current.play().then(() => setMusicOn(true));
   };
   const pauseMusic = () => {
+    if (!musicRef.current) return;
     if (!musicRef.current.isPlaying()) return;
     musicRef.current.pause();
     setMusicOn(false);
@@ -77,7 +79,7 @@ const ComicViewer = () => {
     const interval = setInterval(() => {
       const pages = collections[currentCollection]["images"] || [];
       setPageIndex((prev) => (prev + 1) % pages.length);
-    }, 4000);
+    }, 6000);
     return () => clearInterval(interval);
   }, [autoPlay, currentCollection, collections]);
 

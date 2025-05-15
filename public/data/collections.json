@@ -25,10 +25,33 @@
             "19": "¿Un rescate o un experimento? Nuestro héroe yace en una mesa, mientras otra figura opera una máquina.",
             "20": "FIN DE ESTA HISTORIA... Nuestro héroe descansa, ¿o espera ser desenterrado para una nueva aventura?"
         },
-        "music": "facility"
+        "music": "trance_dungeon_bpm130"
     },
     "collection_2": {
-        "pages": 0,
-        "music": "spooky"
+        "pages": 20,
+        "name": "Colección 2",
+        "captions": {
+            "0": "Comienza la colección 2 de esta increible historia de Minecraft",
+            "1": "2 años más tarde...",
+            "2": "Al Erik le cae un rayo y retorna de su largo viaje por la muerte",
+            "3": "Durante unos segundos, paralizado por el miedo, no sabe lo que hacer",
+            "4": "En su cabeza sólo busca soluciones al problema que ahora le ocupa: ¿cómo saldré de aquí?",
+            "5": "1 día más tarde...",
+            "6": "De su inventario saca un pico de diamante y le parece la herramienta perfecta para escapar",
+            "7": "Por fin libre! Erik vuelve a la superficie de Minecraft",
+            "8": "Emocionado por su logro, Erik decide construir una casa del mineral Oro",
+            "9": "Pero, de repente, un tsunami de lava amenaza su tranquilidad",
+            "10": "Intenta protegerla, pero la lava arrasa con todo a su paso. La casa ya no existe",
+            "11": "Pero Erik no se rinde y decide, esta vez, construirse otra del material más prediado: DIAMANTE!",
+            "12": "Ya de nuevo, en la tranquilidad de su nuevo hogar, decide ver el canal de Saltos con Comba",
+            "13": "Pero como no puede estarse quieto, se le ocurre que es buen plan picar y picar para construir un túnel",
+            "14": "Con mucho tiempo y habilidad, se ha preparado un túnel con vías y galería... ¿A dónde irá?",
+            "15": "¡¡¡A la BOLERA!!!",
+            "16": "Y después de unas cuantas partidas y otros tantos Strikes, Erik está radiante de felicidad",
+            "17": "Para celebrarlo, se toma un café junto a su hijo. Es un expresso machiato!",
+            "18": "Pero de repente, en las noticias, algo sobresalta a Erik: Una casa ha explotado en la Villa",
+            "19": "¿Qué ocurrirá en la siguiente aventura?"
+        },
+        "music": "crafting_game_music"
     }
 }
